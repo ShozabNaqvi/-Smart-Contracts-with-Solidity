@@ -1,4 +1,4 @@
-# -Smart-Contracts-with-Solidity
+# Looks like we've made our first contract!
 
 Smart contracts to automate finances
 
