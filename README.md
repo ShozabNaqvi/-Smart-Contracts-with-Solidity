@@ -12,6 +12,9 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 Pay your associate-level employees quickly and easily.
 
 
+## Instructions
+- Level One is an AssociateProfitSplitter contract. This will accept ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently.
+
 Distribute profits to different tiers of employees.
 
 
@@ -22,5 +25,9 @@ Distribute company shares for employees in a "deferred equity incentive plan" au
   - AssociateProfitSplitter This contract accepts Ether into the contract and divide the Ether evenly among the recipient associate level employees. This will increase the efficiency of human resource departmnet as well as minimize the human effort.
 
 - This contract was deployed and tested on Ropsten Test Network.
+
+## Testing of Network
+![associate profit splitter](Screenshot-1.png)
+
 
 contract address : 0xB0d42B1dE3374d2A266f50177bb5FaFBc85E9320
