@@ -1,5 +1,5 @@
 # Looks like we've made our first contract!
-![Looks like we've made our first contract!](stockphoto.PNG)
+![Looks like we've made our first contract!](stockphoto.png)
 
 
 Smart contracts to automate finances
