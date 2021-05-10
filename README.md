@@ -1,5 +1,5 @@
 # Looks like we've made our first contract!
-![Looks like we've made our first contract!](stock-photo-two-hands-handshake-polygonal-low-poly-hud-illustration-smart-contract-agreement-blockchain-and-1161295627.JPEG)
+![Looks like we've made our first contract!](stock-photo-two-hands-handshake-polygonal-low-poly-hud-illustration-smart-contract-agreement-blockchain-and-1161295627.JPG)
 
 
 Smart contracts to automate finances
